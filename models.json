@@ -1,0 +1,10 @@
+{
+  "object": "list",
+  "data": [
+    {"id": "glm-4.7-flash"},
+    {"id": "glm-4.5-flash"},
+    {"id": "cohere/Cohere-command-r-plus-08-2024"},
+    {"id": "mistral-ai/Mistral-Large-2411"},
+    {"id": "openai/gpt-4.1"}
+  ]
+}
